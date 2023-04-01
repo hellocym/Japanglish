@@ -1,4 +1,4 @@
 # Japanglish
- Pronounce English in Japanese way
+## Pronounce English in Japanese way
 
-## Convert English words to Romaji based on some simple rules
+The project converts English words to Romaji based on some simple rules
